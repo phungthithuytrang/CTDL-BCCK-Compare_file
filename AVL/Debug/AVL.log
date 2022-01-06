@@ -1,0 +1,17 @@
+﻿  AVL.cpp
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(311,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(313,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(365,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(364,8): warning C4101: 'c': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(455,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(651,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(698,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(705,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(709,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(801,6): warning C4101: 'index': unreferenced local variable
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(847,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(848,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(854,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(855,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\CTDLProject\Test ct\AVL\AVL.cpp(936,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AVL.vcxproj -> E:\CTDL\CTDLProject\Test ct\Debug\AVL.exe
